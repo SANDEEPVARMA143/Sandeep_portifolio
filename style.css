@@ -1,0 +1,17 @@
+html
+{
+    text-align: center;
+    background-color: light;
+    border: 15px solid black ;
+}
+
+#main{
+    color: red;
+    font-size: xx-large;
+    background-color: yellow;
+    border: 1px solid black;
+}
+
+h2{
+    color: blue;
+}
